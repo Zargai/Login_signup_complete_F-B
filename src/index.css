@@ -1,0 +1,36 @@
+/* Login Page */
+.Login_Heading{
+  text-align: center;
+  background-color: rgba(194, 72, 28, 0.822);  
+  
+}
+.Login_Heading h1{
+padding: 100px 0px; 
+}
+.login_page{
+  background-image: url(./Background.png);
+  height: 100vh;
+  background-position: center;
+  background-size: cover;
+}
+/* Registration Page */
+.Reg_Heading{
+  text-align: center;
+  background-color: rgba(194, 72, 28, 0.822);  
+  
+}
+.Reg_Heading h1{
+padding: 100px 0px; 
+}
+.Reg_page{
+  background-image: url(./Background.png);
+  height: auto;
+  background-position: center;
+  background-size: cover;
+}
+/* sidebar */
+.useraccount_navbar{
+background-color: rgb(20, 105, 78);
+
+}
+/*rough*/
